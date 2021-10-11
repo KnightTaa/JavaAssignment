@@ -33,6 +33,6 @@ public class InterfaceTest1 {
 
         obj.meth1();
         obj.meth2();
-        //obj.meth3();
+        obj.meth3();
     }
 }
